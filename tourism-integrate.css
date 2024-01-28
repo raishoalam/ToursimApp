@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://rare-gallery.com/thumbs/585439-ancient-ancient.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: #ffeca1;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.favourite-place-bg-container {
+    background-image: url("https://media.istockphoto.com/photos/golden-temple-the-main-sanctuary-of-sikhs-amritsar-india-picture-id543179390?k=20&m=543179390&s=612x612&w=0&h=-jKeZmLk6M_bFmcEc0hCe34rxDEOzoJSh2u8CnaU2BI=");
+    height: 100vh;
+    background-size: cover;
+}
+
+.favourite-place-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+    box-shadow: 100px;
+}
+
+
+.favourite-place-card-hrading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.favourite-place-card-image {
+    width: 70px;
+    height: 100px;
+}
+
+
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detail-view-text-container {
+    padding: 15px;
+
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Bree serif";
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.detail-view-card-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #6c6b70;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://thumbs.dreamstime.com/z/mysore-palace-famous-india-32750953.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    margin: 5px;
+
+}
+
+.detailed-view-heading {
+    font-family: "Bree serif";
+    font-size: 30px;
+    font-weight: normal;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.palace-heading {
+    font-family: "Bree serif";
+    font-size: 30px;
+    font-weight: normal;
+    padding: 10px;
+    color: black;
+}
+
+.paragraph-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    color: #545252;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://thumbs.dreamstime.com/z/mysore-palace-famous-india-32750953.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    margin: 5px;
+
+}
+
+.detailed-view-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.palace-heading {
+    font-family: "Bree serif";
+    font-size: 30px;
+    font-weight: normal;
+    padding: 10px;
+    color: #0e0f0f;
+}
+
+.paragraph-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
